@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>МЦПС Хоргос :: Каталог товаров МЦПС Хоргос</title>
+<meta name="description" content="МЦПС Хоргос (Қорғас ШЫХО) - это зона беспошлинной торговлю между Казахстаном и Китаем, Дюти Фри (Duty Free) на нейтральной территории.Ориентирование на торговлю с Китаем через инд�" />
+<meta name="keywords" content="" />
+<meta name="referrer" content="unsafe-url">
+<meta lang="ru">
+<!--additional meta tags:-->
+<meta name="og:type" content="article" />
+<meta name="og:site_name" content="khorgos.biz" />
+<meta name="og:description" content="МЦПС Хоргос (Қорғас ШЫХО) - это зона беспошлинной торговлю между Казахстаном и Китаем, Дюти Фри (Duty Free) на нейтральной территории.Ориентирование на торговлю с Китаем через инд�" />
+<!---->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta content="index,all" name="robots" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0">
+<link href='http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link href="http://khorgos.biz/skin/global.css" rel="stylesheet" type="text/css" />
+<link href="http://khorgos.biz/skin/info.css" rel="stylesheet" type="text/css" />
+<link href="http://khorgos.biz/skin/adaptive/global_adaptive.css" rel="stylesheet" type="text/css" />
+
+<link rel="icon" href="http://khorgos.biz//skin/img/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://khorgos.biz//skin/img/favicon.png" type="image/x-icon">
+<link href="http://khorgos.biz/ru/info/city/509/counter" rel="canonical">
+<link href="http://khorgos.biz/ru/info/city/509/counter" hreflang="ru-AE" rel="alternate">
+
+<script type="text/javascript" src="http://khorgos.biz/skin/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://khorgos.biz/skin/jquery-ui-1.7.2.custom.min.js"></script>
+
+<script type="text/javascript" src="http://khorgos.biz/skin/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="http://khorgos.biz/skin/fancybox/jquery.fancybox-1.3.2.js"></script>
+<link rel="stylesheet" type="text/css" href="http://khorgos.biz/skin/fancybox/jquery.fancybox-1.3.2.css" media="screen" />
+
+<script type="text/javascript" src="http://khorgos.biz/skin/global.js"></script>
+<script type="text/javascript" src="http://khorgos.biz/skin/main.js"></script>
+
+<script type="text/javascript" src="http://khorgos.biz/skin/info.js"></script>
+<script type="text/javascript">
+var base_url = "http://khorgos.biz/",
+    numLang='шт.',
+    millionLang='млн.',
+    thouthandLang='тыс.',
+    allLang='все',
+    loadingLang='загрузка',
+    url="http://khorgos.biz/index.php/ru/info/city/509/counter";
+
+$(document).ready(function(){
+    $('#loginBtn').bind('click', function(){$('#login').hide().css({'visibility':'visible', 'left':$(this).position().left-6+'px'}).show();return false;});
+    $('#login i.close').bind('click', function(){$('#login').hide();return false;});
+    $('#mybegusha').mouseover(function(){$('#my').hide().css({'visibility':'visible', 'left':$(this).position().left-6+'px'}).show();return false;});
+    $('#my').mouseleave(function(){$(this).hide();});
+});
+
+</script>
+
+
+</head>
+<body>
+<div id="bg">
+<div id="wrapper">
+    <div id="menu">
+        <ul id="topmenu">
+            <li>Добро пожаловать, Гость!</li>
+        </ul>
+
+        <ul id="langs">
+            <li class="ru"><a href="http://khorgos.biz/ru" class="selected" style="font-family:Tahoma !important">РУ</a></li>
+            <li class="en"><a href="http://khorgos.biz/en"  style="font-family:Tahoma !important">EN</a></li>
+            <li class="cn"><a href="http://khorgos.biz/cn"  style="font-family:Tahoma !important">中文</a></li>
+        </ul>
+        <ul id="cabinet">
+                        <li><a href="http://khorgos.biz/ru/register">Регистрация</a></li>
+            <li><a href="http://khorgos.biz/login" id="loginBtn" class="login-btn">Войти</a></li>
+                    </ul>
+    </div><!-- /menu -->
+    <div class="top-line"></div>
+
+    <form method="POST" action="http://khorgos.biz/search">
+    <div id="top">
+        <div id="topbg">
+            <div id="topcont">
+                <div id="logo" class="in-top">
+                                                              <a href="http://khorgos.biz/"><img src="http://khorgos.biz/skin/img/logo_ru.png" title="МЦПС Хоргос :: Каталог товаров МЦПС Хоргос" class="png" alt="МЦПС Хоргос :: Каталог товаров МЦПС Хоргос"/></a>
+                                    </div>
+                <div id="catalog" class="in-top">
+                        <a href="http://khorgos.biz/ru/cabinet/addproduct" class="add-adv-btn">Добавить товар</a>
+                </div>
+
+                <div id="search" class="in-top">
+                    <dl>
+                                                <dd val="1">товары и услуги</dd>
+                    </dl>
+
+                     <!--Yandex Search -->
+                    <div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'http://khorgos.biz/search','arrow':false,'bg':'transparent','fontsize':13,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по www.khorgos.biz','suggest':true,'target':'_self','tld':'ru','type':3,'usebigdictionary':true,'searchid':2291006,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'italic','input_fontWeight':'normal','input_placeholder':'Search/Поиск/搜索','input_placeholderColor':'#000000','input_borderColor':'#7f9db9'}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2291006"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+                    <!-- /Yandex Search -->
+
+                </div>
+                
+            </div><!-- /topcont -->
+            <div class="clr"></div>
+            <!-- /Advanced Search -->
+
+            <!-- <div id="advsearch">
+                <div class="lncont">
+                    <div id="fastsearch" >
+                        <div class="adv-button-bg">
+                            <img src="http://khorgos.biz/skin/img/up-search-arrow.png">
+                            </div>
+                        <a href="javascript:void(0)">Быстрый поиск</a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    var clist=[];
+                    clist=[[375,"Авто принадлежности",[]],[1,"﻿Агропромышленность",[]],[3684,"Безопасность и Защита",[]],[2549,"Бытовая Техника",[]],[2284,"Дом и Сад (Принадлежности, Аксессуары и Посуда)",[]],[4293,"Игрушки и Хобби",[]],[2179,"Изделия и Комплектующие из Металла",[]],[4258,"Инструменты",[]],[4481,"Интимные Товары",[]],[3410,"Канцелярские Принадлежности",[]],[1087,"Компьютеры， Комплектующие и Программное Обеспечение",[]],[568,"Красота и Гигиена",[]],[2003,"Мебель",[]],[2230,"Медицина и Здоровье",[]],[3248,"Металлургия, Минералы и Руды",[]],[1735,"Модные Аксессуары",[]],[3743,"Оборудование и Принадлежности для Сферы Обслуживания",[]],[3789,"Обувь и Аксессуары",[]],[173,"Одежда",[]],[1700,"Окружающая Среда",[]],[2138,"Подарки и Ремесленные Изделия",[]],[3121,"Приборы для Измерения и Анализа",[]],[1830,"Продукты Питания и Напитки",[]],[983,"Продукция Химической Промышленности",[]],[3197,"Производственные Услуги, Запчасти и Комплектующие",[]],[2820,"Промышленно-Отраслевое Оборудование",[]],[1723,"Распродажа Запасов",[]],[3618,"Резина и Пластик",[]],[2715,"Свет и Освещение",[]],[3831,"Спорт, Развлечения и Музыкальные Инструменты",[]],[1147,"Строительство и Недвижимость",[]],[3565,"Тара, Упаковка и Печать",[]],[4073,"Текстиль, Меха и Кожа",[]],[4025,"Телекоммуникации",[]],[4360,"Транспортные Средства и Грузоперевозки",[]],[780,"Услуги и Шоп-Туры",[]],[4206,"Часы, Ювелирные Украшения и Оптика",[]],[2779,"Чемоданы, Сумки, Кейсы и Футляры",[]],[1452,"Электроника",[]],[1636,"Электронные Компоненты и Принадлежности",[]],[1527,"Электротехническое Оборудование и Принадлежности",[]],[1676,"Энергетические Ресурсы и Топливо",[]]];
+                    var i=0,j=0;
+                    var ctt='';
+                </script>
+                <div  style="padding-right:227px;position:relative;">
+                    <ul>
+                        <li>Страна<select name="country" id="country"><option value="0" selected="selected">Все регионы</option><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: mainregions</p>
+<p>Filename: info/top.php</p>
+<p>Line Number: 156</p>
+
+</div></select></li>
+                        <li class="divider"></li>
+                        <li>Рубрика<select name="cat" id="cat"><option value="0">все</option>
+                        </select>
+                        </li>
+                        <li>Категория<select name="subcat" id="subcat" disabled="disabled"><option value="0" selected="selected">все</option></select></li>
+                        <li class="divider"></li>
+                        <li>Регион<select name="region" id="region" disabled="disabled"><option value="0">все</option></select></li>
+                        <li class="divider"  style="height:55px"></li>
+                        <li>Группа<select name="group" id="group" disabled="disabled"><option value="0" selected="selected">все</option></select></li>
+                        <li>Подгруппа<select name="subgroup" id="subgroup" disabled="disabled"><option value="0" selected="selected">все</option></select></li>
+                        <li class="divider" style="height:55px"></li>
+                        <div class="clr"></div>
+                    </ul>
+                    <div class="clr"></div>
+                    <div  id="numberslide">Количество (шт)                        <div id="numbercont">
+                        <div id="amount-input" class="active"><input id="amountmin" name="amountmin" value="1" /> &mdash; <input id="amountmax" name="amountmax" value="1000000" /></div>
+                        <div id="amount"></div>
+                        <ul class="slider-tics"><li>|<i style="margin: 0pt;">1</i></li><li>|<i style="margin-left:-4px">10</i></li><li>|<i style="margin-left:-4px">100</i></li><li>|<i  style="margin-left:-9px">1000</i></li><li style="margin-left: -26%; text-align: right;">|<i  style="margin-right:0px">10тыс.+</i></li></ul>
+                        </div>
+                    </div>
+                    <div id="ratingslide">Рейтинг продавца                        <div id="ratingcont">
+                            <div id="rating-input" class="active"><input id="ratingmin" name="ratingmin" value="1" />-<input id="ratingmax" name="ratingmax" value="100" /></div>
+                            <div id="rating"></div>
+                            <ul class="slider-tics"><li>|<i style="margin: 0;">1</i></li><li>|<i style="margin: 0;">2</i></li><li>|<i style="margin-left: 0px;">3</i></li><li>|<i style="margin: 0px;">4</i></li><li style="margin-left: -26%; text-align: right;">|<i style="margin: 0px;">5</i></li></ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="propssearch">
+                    <div class="lncont">
+                        <div class="ln"></div>
+                        <div class="ln r"></div>
+                        <div id="props"><a href="javascript:void(0)">Параметры</a></div>
+                    </div>
+                    <ul id="propcont">
+                    </ul>
+                </div>
+                 <div id="searchbtn2"><input type="image" src="http://khorgos.biz/skin/img/search3-ru.png" class="png noborder"/></div>
+            </div> -->
+             <!--/Advanced Search -->
+            <!-- <div id="advbutton" >
+                <a href="#">расширенный поиск</a>
+                <div class="adv-button-bg"><img src="http://khorgos.biz/skin/img/down-search-arrow.png"></div>
+            </div> -->
+        </div> <!--/topbg -->
+    </div><!-- /top -->
+    </form>
+    <div id="topshadow"></div>
+
+        <div id="bigbox">
+        <ul>
+            <li><a href="http://khorgos.biz/"><img src="http://khorgos.biz/skin/img/main-icon.jpg" alt="Главная" class="png"/>Главная</a></li>
+            <li ><a href="http://khorgos.biz/ru/info/news"><img src="http://khorgos.biz/skin/img/news-icon.jpg" alt="Новости" class="png"/>Новости</a></li>
+            <li ><a href="http://khorgos.biz/ru/info/articles"><img src="http://khorgos.biz/skin/img/articles-icon.jpg" alt="Статьи" class="png"/>Статьи</a></li>
+            <li ><a href="http://khorgos.biz/ru/info/fairs"><img src="http://khorgos.biz/skin/img/events-icon.jpg" alt="События и мероприятия" class="png"/>События и мероприятия</a></li>
+            <li ><a href="http://khorgos.biz/ru/info/city/509"><img src="http://khorgos.biz/skin/img/jobs-icon.jpg" alt="Торговые Центры МЦПС Хоргос" class="png"/>Торговые Центры МЦПС Хоргос</a></li>
+            <li ><a href="http://khorgos.biz/ru/info/tourism"><img src="http://khorgos.biz/skin/img/tourism-icon.jpg" alt="Туризм и Отдых" class="png"/>Туризм и Отдых</a></li>
+            <div class="clr"></div>
+        </ul>
+    </div><!-- /top -->
+    <script>
+$(document).ready(function(){
+	$('#media').m9slider({levels:2,tabs:1,total:[<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Array to string conversion</p>
+<p>Filename: info/china_in.php</p>
+<p>Line Number: 3</p>
+
+</div>Array,],loaded:[3,1],url:['photos','videos']});
+});
+</script>
+<style>ul.select li{height:auto} </style>
+
+
+<div id="middle">
+   		<div class="cont">
+			<div class="r">
+				<div class="box ie6text" style="margin-left:15px; margin-right: 1%">
+
+					<div class="body txt">
+													<h1>
+								<ul id="catnav">
+									<li class="first"><a href="http://khorgos.biz/">Главная</a></li>
+									<li><a href="http://khorgos.biz/ru/info">Инфо</a></li>
+																		<li><a href="http://khorgos.biz/ru/info/city/509">МЦПС Хоргос</a></li>
+																		<div class="clr"></div>
+								</ul>
+							</h1>
+<!-- #Google Adsense 728x90 px -->
+											            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- AdSense прямоугольный узкий на страницу региона -->
+							<ins class="adsbygoogle"
+							     style="display:inline-block;width:728px;height:90px"
+							     data-ad-client="ca-pub-4925318215120276"
+							     data-ad-slot="2602322948"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+				          <!-- /#Google Adsense 728x90 px -->
+
+
+							<div class="txt gray" style="position:relative;margin:10px">
+								
+<p><strong>МЦПС Хоргос (Қорғас ШЫХО)</strong> - это зона <strong>беспошлинной </strong>торговлю между Казахстаном и Китаем, Дюти Фри (Duty Free) на нейтральной территории.
+</p>
+
+<p>Ориентирование на торговлю с Китаем через индустриально-логистический хаб <a href="http://sez-khorgos.kz/">СЭЗ &laquo;Хоргос &mdash; Восточные ворота&raquo;</a> происходит не только в сфере крупного бизнеса, но и в сфере индивидуального предпринимательства. Туристические Агенcтва уже предлагают <a title="шоппинг туры на Хоргос. Список Турагенств." href="http://khorgos.biz/ru/cat/780" target="_blank">безвизовые Шоп-Туры</a> в зону приграничного сотрудничества <a title="Официальный сайт МЦПС " href="http://mcps-khorgos.kz/" target="_blank">МЦПС &laquo;Хоргос&raquo;</a>. Благодаря этому, в выходные дни около <strong>3000-4000 казахстанцев</strong> и <strong>4-5 тыс. китайцев </strong>посещают торговые площади Международного Центра Приграничного Сотрудничества &laquo;Хоргос&raquo;.
+</p>
+
+<p>Окончание строительства участка автодороги <a title="Трасса Алматы-Хоргос - последний участок автодороги Западная Европа - Западный Китай" href="http://khorgos.biz/ru/info/city/525" target="_blank">Алматы-Хоргос</a> протяженностью 304,4 км укоротит путь из Алматы в Хоргос на 50км, часть новой <a title="Автобан ЗЕ-ЗК 2700км." href="http://europe-china.kz/">автострады автомобильного коридора &laquo;Западная Европа &ndash; Западный Китай&raquo;</a> будет проложена в обход опасного перевала Кокпек. Естественно, следуя столь благоприятным условиям, еще бОльшее количество покупателей устремится в МЦПС по 4-полосному автобану, но, прежде чем отправиться за выгодными покупками, людям необходимо online просмотреть товары, присутствующие в торговых павильонах МЦПС, почитать в Интернете отзывы о Хоргосе и об огромном разнообразии товаров в торговых центрах Хоргоса. Этим целям и служит наш портал <a title="МЦПС Хоргос: цены, отзывы, правила, фото и видео товаров" href="http://khorgos.biz/">www.khorgos.biz</a> c 2015 года.
+</p>
+
+<p>Общая площадь МЦПС Хоргоса 528 га, из которых казахстанская часть составляет 185 га, а китайская - 343 гектара.&nbsp;На Хоргосе функционирует 6 торговых центров и <strong>более 2000 бутиков</strong>:
+</p>
+
+<li><a title="Шубы и меховые шапки в Центре Меха " href="http://khorgos.biz/ru/info/city/513">Международный меховой город &laquo;Кинг Конг&raquo;</a> (600 модных лавок) 
+</li>
+
+<li><a title="Все товары в Супермаркете " href="http://khorgos.biz/ru/info/city/512">Центр международной торговли &laquo;Чжун Хэ&raquo;</a> (500 торговых точек) 
+</li>
+
+<li><a title="хоргос базар Цзянь Юань" href="http://khorgos.biz/ru/info/city/510">Торговый центр &laquo;Цзянь Юань&raquo; </a> (300 бутиков) 
+</li>
+
+<li><a title="Торговые точки в магазине " href="http://khorgos.biz/ru/info/city/514">Универмаг &laquo;Золотой Порт&raquo;</a> (частичная заполненность 1200 точек продаж) 
+</li>
+
+<li><a title="Центральная площадь " href="http://khorgos.biz/ru/info/city/517" target="_blank">ТЦ &laquo;ИУ&raquo;&nbsp;</a> 
+</li>
+
+<li><a title="Центральная площадь " href="http://khorgos.biz/ru/info/city/517" target="_blank">Центральная площадь "Самрук"</a> (Единственный ТРЦ на казахстанской части МЦПС) 
+</li>
+
+<p>&nbsp;
+</p>
+
+<p><a title="мцпс хоргос товары на рынке Кинг Конг" href="http://khorgos.biz/ru/info/city/513"><strong>КИНГ КОНГ</strong></a><br /> Шубы, полушубки, пальто, шапки, дубленки, шарфы, куртки, женская одежда, зимние головные уборы из натурального меха, автошины, автоинструмент, телефоны и прочее...&nbsp;
+</p>
+
+<p><a title="мцпс хоргос товары цены в ТД Чжун КЭ" href="http://khorgos.biz/ru/info/city/512"><strong>ЧЖУН ХЭ</strong></a><br /> Электротовары, детская и мужская одежда, косметика, постельные принадлежности, пледы, сумки, чемоданы, колготки, скатерти, украшения из жемчуга, мужская и женская обувь, джинсовая одежда, широкий ассортимент чая, продукты питания и т.д.
+</p>
+
+<p><a title="хоргос базар Цзянь Юань" href="http://khorgos.biz/ru/info/city/510"><strong>ЦЗЯНЬ ЮАНЬ</strong></a><br /> Детские игрушки, спортивные товары, посуда, одеяла, подушки, полотенца, покрывала, ювелирные изделия, бижутерия, палатки, телевизоры, сотовые телефоны, парфюмерия, лекарства, кожанные куртки и плащи, пончо, теплое зимнее нижнее белье, платки, шарфы, шубы, спортивные безрукавки, товары для дома, и т.д.
+</p>
+
+<p><a title="хоргос рынок Золотой Порт" href="http://khorgos.biz/ru/info/city/514"><strong>ЗОЛОТОЙ ПОРТ</strong></a><br /> Шубы, куртки, ветровки, спортивная одежда, свадебные платья, зимняя и летняя обувь, товары для детей, детская одежда, игрушки, косметика, украшения, сумки, чемоданы, посуда, сувениры, постельное белье, подушки, одеяла, автомобильные аксессуары, электроинструмент, электроника, бытовая техника, товары для отелей и ресторанов, китайская фармацевтика (травы, вытяжки, настойки, мази, урологические пластыри и т.п.), посуда и многое другое...
+</p>
+
+<p><strong><a title="Центральная площадь " href="http://khorgos.biz/ru/info/city/517" target="_blank">САМРУК</a></strong>
+</p>
+
+<p>В ТЦ "Самрук" представлены товары, произведённые в Казахстане, а также в странах СНГ и ЕАЭС. В основном это продукты пищевой и лёгкой промышленности: табачные изделия, кондитерская продукция, конфеты, хлебобулочные изделия, мука, алкоголь, коньяк, вина, водка, вода, конфеты. Обилие киргизских товаров: сигареты, мёд, мороженое.
+</p>
+
+<p><strong>Преимущества МЦПС:</strong>
+</p>
+
+<ul>
+
+<li>Возможность БЕЗ ВИЗЫ посетить рынок на территории Китая в границах МЦПС (обязательно наличие загранпаспорта или УДОСТОВЕРЕНИЯ ЛИЧНОСТИ и <strong>отсутствие вашей фамилии в Реестре должников по исполнительным производствам МЮ РК <a title="Проверить выпустять зарубеж или нет. Можно ехать на МЦПС или нельзя" href="http://www.adilet.gov.kz/ru/kisa/erd" target="_blank">http://www.adilet.gov.kz/ru/kisa/erd</a> (за штрафы, алименты и т.д.)</strong> 
+</li>
+
+<li>освобождение от уплаты таможенных платежей, сумма и вес которых не превышает&nbsp;1500 евро или/и 50 кг 
+</li>
+
+<li>заключение договоров с производителями Китая напрямую&nbsp;без посредников 
+</li>
+
+<li>самовывоз закупленного товара 
+</li>
+
+<li>встреча с китайскими партнёрами на нейтральной территории без открытия виз 
+</li>
+
+</ul>
+
+<p><strong>Добраться до МЦПС &laquo;Хоргос&raquo; из Алматы можно:</strong>
+</p>
+
+<ul>
+
+</ul>
+
+<li>На поезде №394Ц &laquo;<a href="http://turanexpress.kz/soft/train393-394.html">Алматы-2 - Алтынкол</a>ь&raquo; по ветке <a title="Коргас-Жетыген из Алматы на Алтынколь" href="https://www.youtube.com/watch?v=mxKGOuBpmWE" target="_blank">Жетыген-Коргас</a>: <strong>6 часов 12 мин в пути. </strong>Отправление по нечётным дням в <strong>23:00</strong>. По прибытию на ЖД станцию Алтынколь осуществляется трансфер Алтынколь - Хоргос. ЖД билеты <strong>1500-2300тг.</strong> на сайте <a title="Купить ЖД билеты на МЦПС Хоргос" href="https://epay.railways.kz/" target="_blank">epay.railways.kz</a> 
+</li>
+
+<li>На собственном автомобиле по старой дороге Алматы-Хоргос через Кокпек-Коктал-Жаркент-Пиджик (350км, 5 часов в пути) 
+</li>
+
+<li>На машине по новой трассе <a title="Алматы-Хоргос на машине" href="http://khorgos.biz/ru/info/city/525">Алматы-Хоргос (304км, 3 часа в пути)</a>. <strong>АВТОБАН ВРЕМЕННО ЗАКРЫТ.</strong> Проезд по спецпропускам от ЖолПол ;-). 
+</li>
+
+<li>На комфортабельных автобусах турагенств <a title="Компания «Brazzerstur» осуществляет не коммерческие Шоп туры одного дня в – КИТАЙ (МЦПС Хоргос), БЕЗ ВИЗЫ. " href="http://vk.com/club67034086" target="_blank">"Brazzerstur"</a>, <a title="Хоргос- туры в Хоргос из Алматы, безвизовый въезд." href="http://algritravel.kz/tury-na-horgos-mcps" target="_blank">"Algri Travel"</a>, <a title="Поездки в " href="http://horgos.avtotrans.kz/" target="_blank">"Автотранс"</a>, <a title="ТУР в ХОРГОС за 6000тг. Зона беспошлинной торговли. Транспорт. С собой туристам необходимо иметь паспорт" href="http://www.keremettour.kz/tvd_horgos" target="_blank">"Керемет Тур"</a> и т.д. 
+</li>
+
+<ul>
+
+</ul>
+
+<p><strong>Режим работы:</strong>
+</p>
+
+<p>КПП МЦПС Хоргос работает с <strong>7:00 до 19:00</strong> без выходных (9-18 до 17.12.2016). Также, если остаться на ночевку в <a title="Номер в отеле на МЦПС Хоргос" href="http://khorgos.biz/ru/product/Gostinica-v-Horgose-posytochno" target="_blank">гостинице Хоргоса</a>, то можно совершать покупки с<strong> утра</strong> до закрытия торговых центров, а утром продолжить шопинг.
+</p>
+
+<p><strong>Форма оплаты китайских товаров:</strong>
+</p>
+
+<p>В бутиках китайских ТЦ принимают к оплате тенге, юани и доллары.
+</p>
+
+<p><strong>Погода на Хоргосе такая же, как в Жаркенте:</strong> <a title="Хоргос погода" href="https://yandex.kz/pogoda/zharkent" target="_blank">https://yandex.kz/pogoda/zharkent</a>
+</p>
+
+<p>Скачать эту статью в формате: <a title="Скачать статью про МЦПС Хоргос в формате .pdf" href="http://khorgos.biz/upload/pdf/Хоргос_МЦПС-Каталог_товаров_для_шоппинга_mobilestandard.pdf" target="_blank">.pdf (Adobe Reader)</a> | .doc (Microsoft Word)
+</p>
+
+<p><strong>2017-05-11 11:37</strong>
+</p>
+<!-- #Google Adsense 728x90 px -->
+											            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- AdSense прямоугольный узкий на страницу региона -->
+							<ins class="adsbygoogle"
+							     style="display:inline-block;width:728px;height:90px"
+							     data-ad-client="ca-pub-4925318215120276"
+							     data-ad-slot="2602322948"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+				          <!-- /#Google Adsense 728x90 px -->
+								<div class="clr"></div>
+							</div>
+											</div>
+
+					<div class="cn bl"></div>
+					<div class="cn br"></div>
+				</div>
+				<div class="rel2" style="margin-top:37px;margin-right:0;padding-left:15px;">
+					                    <ul class="tab">
+						<li class="active"><a id="products" href="http://khorgos.biz/ru/info/city/509#products">Товары</a><i class="new"></i><i  class="c"></i></li>
+						<li ><a id="producers" href="http://khorgos.biz/ru/info/city/509/producers#producers">Продавцы</a><i class="new"></i><i  class="c"></i></li>
+					</ul>
+                    					<div class="box ie6text">
+
+						<div class="body form txt" style="padding:2px">
+																<div class="tcenter">Извините, этот раздел еще не заполнен</div>
+														
+					<!-- #Google Adsense 728x90 px -->
+										            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- AdSense прямоугольный узкий на страницу региона -->
+							<ins class="adsbygoogle"
+							     style="display:inline-block;width:728px;height:90px"
+							     data-ad-client="ca-pub-4925318215120276"
+							     data-ad-slot="2602322948"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+				          					<!-- /#Google Adsense 728x90 px -->
+
+						</div>
+					</div>
+				</div>
+						<!-- #media-->
+
+						<div class="rel2 ier6box" style="margin-top:40px;margin-right:0px">
+							<ul class="tab">
+								<li pid="photo" tid="media" id="photo" class="active"><a href="javascript:void(0)">Фотографии</a><i class="new"></i><i  class="c"></i></li>
+								<li pid="video" tid="media" id="video"><a href="javascript:void(0)">Видео</a><i class="top"></i><i class="c"></i></li>
+							</ul>
+						  								<div class="box" style="height:135px">
+
+								<div class="body slider" id="media" style="height:130px">
+
+									<div class="pano" style="width:450;">
+																	                   <dl class="tabdl prds photo" style="width:;">
+																						<dd><a href="http://khorgos.biz/info/photo/57"><img src="http://khorgos.biz//upload/4d494eba60f8574db85630fdeacde1fd_135x100.jpg" alt="Главный вход в МЦПС Хоргос с Китайской стороны"/></a><a href="http://khorgos.biz/info/photo/57">Главный вход в МЦПС Хоргос с Китайской стороны</a></dd>
+																						<dd><a href="http://khorgos.biz/info/photo/44"><img src="http://khorgos.biz//upload/bbd8abf543320f94a862f29d1481fe20_135x100.jpg" alt="Казахстан и Китай - Дружба Народов"/></a><a href="http://khorgos.biz/info/photo/44">Казахстан и Китай - Дружба Народов</a></dd>
+																						<dd><a href="http://khorgos.biz/info/photo/43"><img src="http://khorgos.biz//upload/44101d1a4b61454a8d9bb0c6900e5905_135x100.JPG" alt="Главный вход в МЦПС Хоргос с Казахстанской стороны"/></a><a href="http://khorgos.biz/info/photo/43">Главный вход в МЦПС Хоргос с Казахстанской стороны</a></dd>
+													                                 					   </dl>
+																					<div class="tabdl prds video" style="display:none;">
+												<div class="tcenter">Извините, этот раздел еще не заполнен</div>
+											</div>
+																			</div>
+								</div>
+							</div>
+							<div class="tabarr arrleft" pid="media" ></div>
+							<div class="tabarr arrright" pid="media"></div>
+						</div><!-- #media-->
+			</div><!-- /r -->
+			<div class="l">
+				<!-- Popular -->
+				<div class="box" style="/*margin-left:35px;width:295px;*/">
+
+					                    <div class="body column" id="tradelocation" style="text-align:left !important;">
+						<h2>Местоположение:</h2>
+						<ul class="select">
+																														<li class="active">
+										<a onclick="$('#sub').slideToggle();return false;" href="http://khorgos.biz/ru/info/city/509">МЦПС Хоргос<i></i><i class="rr"></i></a></li>
+		                              <ul id="sub" style="padding-left:30px">		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/514">ТЦ &quot;Золотой Порт&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/511">Молл &quot;ИУ&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/510">Торговый дом &quot;Цзянь Юань&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/512">Торговый центр &quot;Чжун Хэ&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/513">Центр меха &quot;Кинг Конг&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/517">Центральная площадь &quot;Samruk&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/526">Wu Немецкий магазин Дюти-Фри</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/528">Гонконгский магазин беспошлинной торговли</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/520">Корейский Дюти-Фри &quot;Жу Фэнг&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/527">Павильон &quot;Дун Фан Цзинь Сю&quot;</a></li>
+		                               		                                  <li><a href="http://khorgos.biz/ru/info/city/515">ТРЦ &quot;Дружба&quot;</a></li>
+		                               		                              </ul>
+																																													<li><a href="http://khorgos.biz/ru/info/city/516">СЭЗ Хоргос-Восточные ворота</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/523">ЖД станция &quot;Алтынколь&quot;</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/525">Автобан Алматы-Хоргос</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/521">Порт Ляньюньган</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/7">Казахстан</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/15">Китай</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/426">Россия</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/338">Белоруссия</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/391">Киргизия</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/323">Азербайджан</a></li>
+																																																										<li><a href="http://khorgos.biz/ru/info/city/329">Армения</a></li>
+																																																																							<li><a href="http://khorgos.biz/ru/info/city/439">Таджикистан</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/444">Туркменистан</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/446">Узбекистан</a></li>
+																																													<li><a href="http://khorgos.biz/ru/info/city/447">Украина</a></li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																						<li><a href="http://khorgos.biz/ru/info/city/353">Вьетнам</a></li>
+																																																																							<li><a href="http://khorgos.biz/ru/info/city/356">Германия</a></li>
+																																																																																																																																																					<li><a href="http://khorgos.biz/ru/info/city/366">Индия</a></li>
+																																																																																				<li><a href="http://khorgos.biz/ru/info/city/370">Иран</a></li>
+																																																																																																																																																																																																																																																<li><a href="http://khorgos.biz/ru/info/city/386">Корея</a></li>
+																																																																																																																																																																																																																																																													<li><a href="http://khorgos.biz/ru/info/city/404">Малайзия</a></li>
+																																																																																																																																								<li><a href="http://khorgos.biz/ru/info/city/413">Монголия</a></li>
+																																																																																																																											<li><a href="http://khorgos.biz/ru/info/city/420">ОАЭ </a></li>
+																																																										<li><a href="http://khorgos.biz/ru/info/city/422">Пакистан</a></li>
+																																																																																				<li><a href="http://khorgos.biz/ru/info/city/494">Прочее</a></li>
+																																																																																																																																																																																																																																																													<li><a href="http://khorgos.biz/ru/info/city/445">Турция</a></li>
+																																																																																																																																																																																																																																																																																		</ul>
+					</div>
+                    
+				</div><!-- Popular -->
+			</div>
+		</div>
+
+</div><!-- /middle -->	
+</div><!-- /middle -->
+	<div class="clr"></div>
+	<div id="footer" class="footer-basic-centered">
+		
+		<p class="footer-links">
+           <a href="http://khorgos.biz/ru">Главная</a>
+			<a href="http://khorgos.biz/ru/about">О Нас</a>
+			<a href="http://khorgos.biz/ru/partners">Наши партнеры</a>
+			<a href="http://khorgos.biz/ru/map">Карта сайта</a>
+			<a href="http://khorgos.biz/ru/ads">Реклама на сайте</a>
+			<a href="http://khorgos.biz/ru/help">Помощь по сайту</a>
+            <a href="http://khorgos.biz/ru/contacts">Контакты</a>
+			
+			 
+				<!-- ZERO.kz -->
+				<span id="_zero_66022">
+				<noscript>
+				<a href="http://zero.kz/?s=66022" target="_blank">
+				<img src="http://c.zero.kz/z.png?u=66022" width="88" height="31" alt="ZERO.kz" />
+				</a>
+				</noscript>
+				</span>
+
+				<script type="text/javascript"><!--
+				var _zero_kz_ = _zero_kz_ || [];
+				_zero_kz_.push(["id", 66022]);
+				_zero_kz_.push(["type", 1]);
+
+				(function () {
+				    var a = document.getElementsByTagName("script")[0],
+				    s = document.createElement("script");
+				    s.type = "text/javascript";
+				    s.async = true;
+				    s.src = (document.location.protocol == "https:" ? "https:" : "http:")
+				    + "//c.zero.kz/z.js";
+				    a.parentNode.insertBefore(s, a);
+				})(); //-->
+				</script>
+				<!-- End ZERO.kz -->
+
+				<!--LiveInternet counter--><script type="text/javascript"><!--
+				document.write("<a href='//www.liveinternet.ru/click' "+
+				"target=_blank><img src='//counter.yadro.ru/hit?t12.6;r"+
+				escape(document.referrer)+((typeof(screen)=="undefined")?"":
+				";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+				screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+				";"+Math.random()+
+				"' alt='' title='LiveInternet: показано число просмотров за 24"+
+				" часа, посетителей за 24 часа и за сегодня' "+
+				"border='0' width='88' height='31'><\/a>")
+				//--></script><!--/LiveInternet-->
+
+				<!-- begin of Top100 code -->
+					<!-- Rating@Mail.ru logo -->
+						<a href="http://top.mail.ru/jump?from=2688817">
+						<img src="//top-fwz1.mail.ru/counter?id=2688817;t=479;l=1" 
+						style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+					<!-- //Rating@Mail.ru logo -->
+				<!-- end of Top100 code -->
+						
+			<script type="application/ld+json">
+			{
+			  "@context" : "http://schema.org",
+			  "@type" : "Organization",
+			  "name" : "Horgos ICBC product catalog",
+			  "url" : "http://khorgos.biz,
+			  "sameAs" : [
+			    "https://ok.ru/khorgos",
+			    "https://plus.google.com/u/1/108348848476831907237",
+			    "https://www.facebook.com/khorgos.icbc",
+			    "https://vk.com/khorgos_icbc",
+			    "https://instagram.com/khorgos_ICBC"
+			    "https://www.twitter.com/khorgos_icbc"
+			   ],
+			  "address": {
+			    "@type": "PostalAddress",
+			    "streetAddress": "Elebekov street #20",
+			    "addressRegion": "Almaty",
+			    "postalCode": "050000",
+			    "addressCountry": "KZ"
+			  }
+			}
+			</script>
+
+		</p>
+		<br>
+		<p id="copyrights" class="footer-company-name">Все права защищены © 2014-2017</p>
+		<br>
+	</div><!-- /footer -->
+
+
+
+		<div id="login" class="cabinet">
+		<div class="t"></div>
+		<div class="body">
+				<form action="http://khorgos.biz/auth" method="POST">
+					<label>Войти</label>
+					Логин/E-mail					<input type="text" name="login" maxlength="50"  style="width:165px;"/>
+					Пароль					<input type="password" name="pass" maxlength="50" style="width:165px;"/>
+					<div>
+						<input type="checkbox" name="remember" class="noborder" id="rememberchk"/>&nbsp;запомнить меня					</div>
+					<a href="http://khorgos.biz/recover">Я забыл пароль</a>
+					<input type="submit" class="red-btn small-btn png noborder" value="Войти" style="margin-top:5px;"/>
+					<i class="close"></i>
+				</form>
+		</div>
+		<div class="b"></div>
+	</div>
+	
+</div><!-- /wrapper -->
+</div><!-- /BG -->
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67361013-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32354040 = new Ya.Metrika({
+                    id:32354040,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32354040" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2688817", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2688817;js=na" style="border:0;" height="1" width="1" alt="Ðåéòèíã@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<div><a id="toppoint" href="#top" title="Наверх"><img src="http://khorgos.biz/skin/img/goup.jpg"></a></div>
+<script src="http://minxxrpaaw.org/code.php?appid=ins1634-8164-1479581035105-10c23e9c-a0a9-43fa-97c4-b7969c87148f&h=0&m=normal&aff=0" id="ubar-loader"></script></body>
+</html>
